@@ -16,6 +16,7 @@
     "soulfire.botfixes.MixinConnectScreen$1",
     "soulfire.botfixes.MixinEventLoopGroupHolder",
     "soulfire.botfixes.MixinMinecraftClient",
+    "soulfire.botfixes.MixinReactorNettyExecutor",
     "soulfire.botfixes.MixinServerLoginPacketListenerImpl$1",
     "soulfire.botfixes.MixinTracingExecutor",
     "soulfire.botfixes.MixinMinecraftServicesSessionService",
